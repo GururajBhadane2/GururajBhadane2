@@ -21,6 +21,7 @@
 
 ### 🗄️ Databases
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
 
