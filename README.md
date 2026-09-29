@@ -6,13 +6,6 @@
 ![](https://streak-stats.demolab.com/?user=GururajBhadane2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GururajBhadane2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🐍 Contribution Snake (Active Board)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### 📈 Activity & Contribution Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=GururajBhadane2&theme=react-dark&hide_border=false&area=true)
 
