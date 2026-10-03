@@ -10,7 +10,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-%23FF6A00.svg?style=for-the-badge\&logo=alibabacloud\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ### ⚡ Backend & Frameworks
